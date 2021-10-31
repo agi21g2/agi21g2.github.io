@@ -153,11 +153,16 @@
     min-height: 391px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 538px;
+  min-height: 642px;
 }
 
 .u-section-3 .u-text-1 {
   margin: 20px auto 0;
+}
+
+.u-section-3 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+  font-size: 1.875em;
 }
 
 .u-section-3 .u-list-1 {
@@ -177,42 +182,24 @@
   padding: 30px;
 }
 
-.u-section-3 .u-icon-1 {
-  height: 64px;
-  width: 64px;
-  margin: 0 20px;
-}
-
 .u-section-3 .u-text-2 {
-  margin: -64px 0 0 115px;
+  margin: 0 0 0 115px;
 }
 
 .u-section-3 .u-container-layout-2 {
   padding: 30px;
 }
 
-.u-section-3 .u-icon-2 {
-  height: 64px;
-  width: 64px;
-  margin: 0 20px;
-}
-
 .u-section-3 .u-text-3 {
-  margin: -64px 0 0 115px;
+  margin: 0 0 0 115px;
 }
 
 .u-section-3 .u-container-layout-3 {
   padding: 30px;
 }
 
-.u-section-3 .u-icon-3 {
-  height: 64px;
-  width: 64px;
-  margin: 0 20px;
-}
-
 .u-section-3 .u-text-4 {
-  margin: -64px 0 0 115px;
+  margin: 0 0 0 115px;
 }
 
 @media (max-width: 767px) {
@@ -241,11 +228,16 @@
     width: 340px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 591px;
+  min-height: 633px;
 }
 
 .u-section-4 .u-text-1 {
   margin: 20px auto 0;
+}
+
+.u-section-4 .u-icon-1 {
+  color: rgb(35, 31, 32) !important;
+  font-size: 1.875em;
 }
 
 .u-section-4 .u-list-1 {
@@ -265,16 +257,9 @@
   padding: 30px;
 }
 
-.u-section-4 .u-icon-1 {
-  height: 65px;
-  width: 65px;
-  background-image: none;
-  margin: 0 auto 0 0;
-}
-
 .u-section-4 .u-text-2 {
   font-weight: 700;
-  margin: -65px auto 0 87px;
+  margin: 0 auto 0 87px;
 }
 
 .u-section-4 .u-text-3 {
@@ -285,16 +270,9 @@
   padding: 30px;
 }
 
-.u-section-4 .u-icon-2 {
-  height: 65px;
-  width: 65px;
-  background-image: none;
-  margin: 0 auto 0 0;
-}
-
 .u-section-4 .u-text-4 {
   font-weight: 700;
-  margin: -65px auto 0 87px;
+  margin: 0 auto 0 87px;
 }
 
 .u-section-4 .u-text-5 {
@@ -305,16 +283,9 @@
   padding: 30px;
 }
 
-.u-section-4 .u-icon-3 {
-  height: 65px;
-  width: 65px;
-  background-image: none;
-  margin: 0 auto 0 0;
-}
-
 .u-section-4 .u-text-6 {
   font-weight: 700;
-  margin: -65px auto 0 87px;
+  margin: 0 auto 0 87px;
 }
 
 .u-section-4 .u-text-7 {
@@ -414,6 +385,11 @@
   margin: 20px auto 0;
 }
 
+.u-section-5 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+  font-size: 1.875em;
+}
+
 .u-section-5 .u-list-1 {
   width: 622px;
   grid-template-rows: auto auto auto;
@@ -431,7 +407,7 @@
   padding: 30px;
 }
 
-.u-section-5 .u-icon-1 {
+.u-section-5 .u-icon-2 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
@@ -445,7 +421,7 @@
   padding: 30px;
 }
 
-.u-section-5 .u-icon-2 {
+.u-section-5 .u-icon-3 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
@@ -459,7 +435,7 @@
   padding: 30px;
 }
 
-.u-section-5 .u-icon-3 {
+.u-section-5 .u-icon-4 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
@@ -502,6 +478,11 @@
   margin: 20px auto 0;
 }
 
+.u-section-6 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+  font-size: 1.875em;
+}
+
 .u-section-6 .u-list-1 {
   width: 622px;
   grid-template-rows: auto auto auto;
@@ -519,7 +500,7 @@
   padding: 30px;
 }
 
-.u-section-6 .u-icon-1 {
+.u-section-6 .u-icon-2 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
@@ -533,7 +514,7 @@
   padding: 30px;
 }
 
-.u-section-6 .u-icon-2 {
+.u-section-6 .u-icon-3 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
@@ -547,7 +528,7 @@
   padding: 30px;
 }
 
-.u-section-6 .u-icon-3 {
+.u-section-6 .u-icon-4 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
@@ -590,6 +571,11 @@
   margin: 20px auto 0;
 }
 
+.u-section-7 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+  font-size: 1.875em;
+}
+
 .u-section-7 .u-list-1 {
   width: 622px;
   grid-template-rows: auto auto auto;
@@ -607,7 +593,7 @@
   padding: 30px;
 }
 
-.u-section-7 .u-icon-1 {
+.u-section-7 .u-icon-2 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
@@ -621,7 +607,7 @@
   padding: 30px;
 }
 
-.u-section-7 .u-icon-2 {
+.u-section-7 .u-icon-3 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
@@ -635,7 +621,7 @@
   padding: 30px;
 }
 
-.u-section-7 .u-icon-3 {
+.u-section-7 .u-icon-4 {
   height: 64px;
   width: 64px;
   margin: 0 20px;
